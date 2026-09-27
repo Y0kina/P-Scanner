@@ -19,7 +19,7 @@
 
 Built as a learning project to understand what tools like **Nmap** actually do under the hood, one socket connection at a time.
 
-> ⚠️ **Disclaimer:** Only scan hosts you own or have explicit permission to test. Unauthorized scanning may be illegal in your country.
+> ⚠️ **Disclaimer:** Only scan hosts you own or have explicit permission to test. Unauthorized scanning may be illegal in your country!
 
 ---
 
